@@ -7,7 +7,9 @@
     "react-dom": "^16.10.2",
     "react-scripts": "0.9.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "react-test-renderer": "^16.10.2"
+  },
   "scripts": {
     "start": "react-scripts start --open",
     "build": "react-scripts build",

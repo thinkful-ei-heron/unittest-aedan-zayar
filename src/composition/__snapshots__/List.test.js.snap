@@ -1,0 +1,53 @@
+exports[`List component renders the UI as expected 1`] = `
+<section
+  className="List">
+  <header
+    className="List-header">
+    <h2>
+      Test message
+    </h2>
+  </header>
+  <div
+    className="List-cards">
+    <div
+      className="Card">
+      <button
+        className="button">
+        delete
+      </button>
+      <h3>
+        First card
+      </h3>
+      <p>
+        lorem ipsum
+      </p>
+    </div>
+    <div
+      className="Card">
+      <button
+        className="button">
+        delete
+      </button>
+      <h3>
+        Second card
+      </h3>
+      <p>
+        lorem ipsum
+      </p>
+    </div>
+    <div
+      className="Card">
+      <button
+        className="button">
+        delete
+      </button>
+      <h3>
+        Third card
+      </h3>
+      <p>
+        lorem ipsum
+      </p>
+    </div>
+  </div>
+</section>
+`;
